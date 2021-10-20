@@ -12,8 +12,8 @@ From a business requirements standpoint, we will be building a basic Express ser
 
 ## Links to application deployment
 
-- [Heroku Main Branch](https://ryanemmans-server-deploy-prod.herokuapp.com/)
-- [GitHub Actions](https://github.com/ryanemmans/server-deployment-practice/actions)
+- [Heroku Main Branch](https://ryanemmans-basic-express.herokuapp.com/)
+- [GitHub Actions](https://github.com/ryanemmans/basic-express-server/actions)
 - [Pull Request](https://github.com/ryanemmans/server-deployment-practice/pull/1)
 
 ## Include embedded UML
@@ -29,5 +29,3 @@ From a business requirements standpoint, we will be building a basic Express ser
     - Without a name in the query string, force a “500” error
 
 ## Notes
-
--
