@@ -34,9 +34,4 @@ describe('Testing our Server', () => {
 
     expect(response.status).toBe(404);
   });
-  // it('Should reject an empty query', async () => {
-  //   const response = await request.get('/person');
-
-  //   expect(response.status).toBe(500);
-  // });
 });
