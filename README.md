@@ -14,7 +14,7 @@ From a business requirements standpoint, we will be building a basic Express ser
 
 - [Heroku Main Branch](https://ryanemmans-basic-express.herokuapp.com/)
 - [GitHub Actions](https://github.com/ryanemmans/basic-express-server/actions)
-- [Pull Request](https://github.com/ryanemmans/server-deployment-practice/pull/1)
+- [Pull Requests](https://github.com/ryanemmans/basic-express-server/pulls?q=is%3Apr+is%3Aclosed)
 
 ## Include embedded UML
 
