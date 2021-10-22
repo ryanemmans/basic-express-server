@@ -1,11 +1,11 @@
 'use strict';
 
 const Food = (sequelize, DataTypes) => sequelize.define('Food', {
-  words: {
+  category: {
     type: DataTypes.STRING,
     allowNull: false,
   },
-  title: {
+  name: {
     type: DataTypes.STRING,
     allowNull: true,
   },

@@ -1,12 +1,12 @@
 'use strict';
 
-module.exports = function (request, response, next) {
-  console.log(`${request.method} ${request.path}`);
+module.exports = function (req, res, next) {
+  console.log(`${req.method} ${req.path}`);
 
-  let method = request.method;
-  if (method === 'GET') {
-    next();
-  } else {
+  let method = req.method;
+  if (method === 'PATCH') {
     next('Something went wrong.');
+  } else {
+    next();
   }
 };
